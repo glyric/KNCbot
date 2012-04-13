@@ -1,0 +1,14 @@
+* !sf - command that send a notice to the channel where it is issued telling commanders to join the SF
+
+* !rejoin - command that send a notice to the channel where it is issued telling commanders to rejoin something
+
+* !2ic - command that send a notice to the channel where it is issued asking for someone to take 2ic
+
+* Function to help planner with getting leaders.
+	- !leaders
+	- !leader add <IM,GM,FM,VM,Staff,Gen,LtGen,MajGen,Brig> <nick>
+	- !leader reset
+	- !leader remove <nick>
+	- !leader help
+	
+* Function announcing City battles
